@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "Staff",
+    "description": "Discord Yetkilisi Ol",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "urrally",
+            "id": "758758036562509855"
         }
     ],
     "main": "src/index.ts",
